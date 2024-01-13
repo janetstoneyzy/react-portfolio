@@ -77,64 +77,33 @@ const services = [{
 ];
 
 const dataportfolio = [{
-        img: "https://picsum.photos/400/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
+        img: "https://i.postimg.cc/fWG1DPmm/1.jpg",
+        description: "Climate Wormhole -- An app and video projection that visualises the predictive damage caused by climate change in certain locations in the future.",
+        //link: "#",
+    },
+    {
+        img: "https://i.postimg.cc/VN3MhX09/2.jpg",
+        description: "Nostopia -- An app design that aids people with rhinitis: record triggers, remind of precautions, and share allergen information.",
         link: "#",
     },
     {
-        img: "https://picsum.photos/400/800/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
+        img: "https://i.postimg.cc/zX6gvnps/3.jpg",
+        description: "Space Studio -- An 3D animation made with 3Ds Max. This work animates a robot filming the aircrafts and the space station.",
         link: "#",
     },
     {
-        img: "https://picsum.photos/400/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
+        img: "https://i.postimg.cc/K8tDyqFq/4.jpg",
+        description: "An application that visualizes the chinese characters evolution of the 12 zodiac animals.",
         link: "#",
     },
     {
-        img: "https://picsum.photos/400/600/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
+        img: "https://i.postimg.cc/3NcjBzh1/5.jpg",
+        description: "Adaptation from book to website.",
         link: "#",
     },
     {
-        img: "https://picsum.photos/400/300/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/700/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-
-    {
-        img: "https://picsum.photos/400/600/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/300/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/550/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/700/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
+        img: "https://i.postimg.cc/5tD3d6RJ/6.jpg",
+        description: "Pattern design for Kimchi jar.",
         link: "#",
     },
 ];
