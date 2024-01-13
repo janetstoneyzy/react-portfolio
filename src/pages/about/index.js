@@ -32,12 +32,16 @@ export const About = () => {
           <Col lg="7" className="d-flex align-items-center">
             <div>
               <p>{dataabout.aboutme}</p>
+              <p>{dataabout.aboutme1}</p>
+              <p>{dataabout.aboutme4}</p>
+              <p>{dataabout.aboutme2}</p>
+              <p>{dataabout.aboutme3}</p>
             </div>
           </Col>
         </Row>
         <Row className=" sec_sp">
           <Col lg="5">
-            <h3 className="color_sec py-4">Work Timline</h3>
+            <h3 className="color_sec py-4">Work Experience</h3>
           </Col>
           <Col lg="7">
             <table className="table caption-top">

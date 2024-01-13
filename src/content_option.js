@@ -1,74 +1,78 @@
-const logotext = "JOHN";
+const logotext = "Joey";
 const meta = {
-    title: "John Doe",
-    description: "I’m John Doe data scientist _ Full stack devloper,currently working in Berlin",
+    title: "Joey Yu",
+    description: "I’m Joey Yu postgraduate student _ From China, currently studying in Milan",
 };
 
 const introdata = {
     title: "I’m Joey Yu",
     animated: {
-        first: "I love coding",
-        second: "I code cool websites",
-        third: "I develop mobile apps",
+        first: "I'd like to be a slashie",
+        second: "I edit videos",
+        third: "I make VR games",
     },
-    description: "Don't be a follower.",
-    your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
+    description: "Stay Hungry. Stay Foolish.",
+    your_img_url: "https://images.unsplash.com/photo-1705086450252-7b0711170eed?q=80&w=2731&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
 };
 
 const dataabout = {
-    title: "abit about my self",
-    aboutme: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent quis dolor id ligula semper elementum feugiat pretium nulla. Nunc non commodo dolor. Nunc mollis dignissim facilisis. Morbi ut magna ultricies.",
+    title: "a bit about myself",
+    aboutme: "Academic Field:",
+    aboutme1: "Video Production, UI & UX Design, UX Engineering.",
+    aboutme4:"--",
+    aboutme2:"Core Courses:",
+    aboutme3:"Audio-visual Language, Virtual Reality, Animation",
 };
 const worktimeline = [{
-        jobtitle: "Designer of week",
-        where: "YAdfi",
-        date: "2020",
+        jobtitle: "Jul 2020 - Sep 2020",
+        where: "Marketing Internship",
+        date: "ANS Paints Ltd.",
     },
     {
-        jobtitle: "Designer of week",
-        where: "Jamalya",
-        date: "2019",
+        jobtitle: "Feb 2023 - Apr 2023",
+        where: "Production and Design Internship",
+        date: "SI Commercial Ltd.",
     },
-    {
+    /*{
         jobtitle: "Designer of week",
         where: "ALquds",
         date: "2019",
-    },
+    },*/
 ];
 
 const skills = [{
-        name: "Python",
-        value: 90,
-    },
-    {
-        name: "Djano",
-        value: 85,
-    },
-    {
-        name: "Javascript",
+        name: "Figma",
         value: 80,
     },
     {
-        name: "React",
-        value: 60,
+        name: "Python",
+        value: 70,
     },
     {
-        name: "Jquery",
-        value: 85,
+        name: "React",
+        value: 30,
+    },
+    {
+        name: "JavaScript",
+        value: 40,
+    },
+    {
+        name: "Final Cut",
+        value: 60,
     },
 ];
 
 const services = [{
+        title: "Video Production",
+        description: "Produced videos for documentary, micro-film, advertisement and micro-course.",
+    },
+    {
         title: "UI & UX Design",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+        description: "Developed application that visualizes the chinese characters evolution of the 12 zodiac animals.",
     },
     {
-        title: "Mobile Apps",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
-    },
-    {
-        title: "Wordpress Design",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+        title: "UX Engineering",
+        description: "Organized Circuit Design Competition in the college of Information Sciences and Technology.",
     },
 ];
 
@@ -136,9 +140,9 @@ const dataportfolio = [{
 ];
 
 const contactConfig = {
-    YOUR_EMAIL: "name@domain.com",
-    YOUR_FONE: "(555)123-4567",
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vehicula eu nunc et sollicitudin. Cras pulvinar, nisi at imperdiet pharetra. ",
+    YOUR_EMAIL: "joeyyu@gmail.com",
+    //YOUR_FONE: "(555)123-4567",
+    //description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vehicula eu nunc et sollicitudin. Cras pulvinar, nisi at imperdiet pharetra. ",
     // creat an emailjs.com account 
     // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
     YOUR_SERVICE_ID: "service_id",
